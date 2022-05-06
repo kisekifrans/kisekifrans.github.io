@@ -3859,7 +3859,7 @@ https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
 function initMap() {
 
     var map = new google.maps.Map(document.getElementById('ieatmaps'), {
-      center: {lat: 34.0937458, lng: -118.3614978},
+      center: {lat: -8.119621, lng: 115.076080},
       zoom: 12,
       styles: [
     {
